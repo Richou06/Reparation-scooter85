@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reparation-scooter85.netlify.app/sitemap.xml
